@@ -1,0 +1,22 @@
+
+
+.textbox				{ width:190px; height:27px; background:#9F9; padding-left:5px;}
+.submit					{ width:92px; height:27px; background:#9F9;}
+.reset					{ width:92px; height:27px; background:#9F9;}
+.prize 					{ font-size:12px;}
+.new_user_form			{ width:190px; height:27px; background:#E8EBEE; padding-left:5px;}
+.new_user_submit		{ width:92px; height:27px; background:#CCC;}
+.new_user_reset			{ width:92px; height:27px; background:#CCC;}
+.table_login_details	{ font-size:14px; color:orange;}
+.table_login_details_bal{ font-size:24px; color:Yellow;}
+
+td 						{ font-size:11px; color:#993;}
+.td_edit 				{ font-size:13px; color:#993;}
+
+.dropex_transfer_field  { width:220px; height:32px; background:#FFC; padding-left:5px; border-radius:6px;}
+.transfer_table			{ font-size:13px; }
+
+.edit_field				{ width:300px; height:32px; background:#FFC; padding-left:5px; border-radius:6px;}
+.add_new_field			{ width:260px; height:32px; background:#FFC; padding-left:5px; border-radius:6px;}
+
+#close_all 				{ font-size:14px; text-align:right; }
